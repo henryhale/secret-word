@@ -1,0 +1,21 @@
+{
+  "name": "secret-word",
+  "version": "1.0.0",
+  "description": "A fully basic word guessing game in vanillaJS ",
+  "main": "js/secret-word.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryhale/secret-word.git"
+  },
+  "keywords": [],
+  "author": "Henry Hale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryhale/secret-word/issues"
+  },
+  "homepage": "https://github.com/henryhale/secret-word#readme"
+}
