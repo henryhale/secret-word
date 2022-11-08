@@ -82,7 +82,6 @@ export function loadImages(callback) {
 let i;
 export function randomGif(flag) {
   i = randomInt(0, 3);
-  console.log(i);
   if (!flag) return gifStore.angry[i];
   return gifStore.happy[i];
 }
