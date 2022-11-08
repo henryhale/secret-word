@@ -8,7 +8,7 @@ const data = [
   },
   {
     word: 'actor',
-    hint: 'She perfoms on TV',
+    hint: 'He perfoms on TV',
   },
   {
     word: 'aspire',
@@ -23,8 +23,8 @@ const data = [
     hint: 'Hard but easily broken',
   },
   {
-    word: 'come',
-    hint: 'Travel a particular distance',
+    word: 'soul',
+    hint: 'The spiritual part of an human',
   },
   {
     word: 'cereal',
@@ -32,7 +32,7 @@ const data = [
   },
   {
     word: 'centre',
-    hint: 'The middle point of sth',
+    hint: 'The middle point of something',
   },
   {
     word: 'champ',
@@ -55,8 +55,8 @@ const data = [
     hint: 'A mixture of decayed plants or food',
   },
   {
-    word: 'deep',
-    hint: 'Strong and dark',
+    word: 'scientist',
+    hint: 'man of science',
   },
   {
     word: 'depart',
@@ -71,8 +71,8 @@ const data = [
     hint: 'Decorated with frills',
   },
   {
-    word: 'gravid',
-    hint: 'Pregnant',
+    word: 'miss',
+    hint: 'Put off, yearn',
   },
   {
     word: 'mend',
@@ -106,6 +106,30 @@ const data = [
     word: 'work',
     hint: 'Time is money',
   },
+  {
+    word: 'because',
+    hint: 'Used to reason'
+  },
+  {
+    word: 'everybody',
+    hint: 'Every person'
+  },
+  {
+    word: 'recent',
+    hint: 'New, fresh'
+  },
+  {
+    word: 'people',
+    hint: 'Human being'
+  },
+  {
+    word: 'private',
+    hint: 'Special, exclusive'
+  },
+  {
+    word: 'think',
+    hint: 'consider, contemplate'
+  }
 ];
 
 export function getRandomWord() {
