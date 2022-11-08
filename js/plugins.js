@@ -1,4 +1,4 @@
-import { randomInt } from "./helpers";
+import { randomInt } from "./helpers.js";
 
 /* Dark Mode / Light Mode */
 export function toggleDarkMode (root, btn) {
