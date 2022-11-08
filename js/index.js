@@ -33,7 +33,7 @@ game.setReaction(gameGif);
 
 // Finally...
 window.addEventListener(
-    'load',
+    'DOMContentLoaded',
     function () {
       // Hide loader & switch to start
       switchViewTo('start');
